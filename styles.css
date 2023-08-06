@@ -25,7 +25,9 @@ ul {
     color: #008000; 
   }
 
-  img {
-    display: center;
-    margin: 0 auto;
+  .croissant-photo {
+    max-width: 100px;
+    border-radius: 10px; 
+    display: block;
+    margin: 30px 0;
   }
