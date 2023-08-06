@@ -1,11 +1,12 @@
 body {
-    color: #F8E8A6; 
+    background-color: #F8E8A6; 
     text-align: center;
 }
 
-h1 { 
+h1, h2 { 
     font-size: 48px;
     text-align: center;
+    color: black; 
 }
 
 ul {
